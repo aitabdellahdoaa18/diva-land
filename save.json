@@ -1,0 +1,17 @@
+{
+  "player_level": 2,
+  "player_xp": 115,
+  "coins": 175,
+  "stars": 4,
+  "crowns": 0,
+  "inventory": [],
+  "equipped": {
+    "head": null,
+    "dress": null,
+    "accessory": null
+  },
+  "unlocked_content": [],
+  "minigame_scores": {
+    "xo": 100
+  }
+}
